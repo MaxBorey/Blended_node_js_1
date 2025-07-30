@@ -9,7 +9,7 @@
 
 // 4. Виконавши скрипт group-products, переконайтесь, що ваша функція group-products коректно групує назви продуктів за категоріями.
 
-import { PATH_DB } from "../constans/products.js";
+import { PATH_DB } from "../constants/products.js";
 import fs from 'node:fs/promises';
 
 const groupProductsByCategories = async () => { 

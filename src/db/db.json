@@ -34,5 +34,23 @@
     "price": "231.29",
     "category": "Toys",
     "description": "The violet Tuna combines Zimbabwe aesthetics with Tantalum-based durability"
+  },
+  {
+    "name": "Bespoke Wooden Fish",
+    "price": "504.35",
+    "category": "Beauty",
+    "description": "Soft Bike designed with Silk for content performance"
+  },
+  {
+    "name": "Fresh Ceramic Chicken",
+    "price": "168.75",
+    "category": "Garden",
+    "description": "Introducing the Pakistan-inspired Chicken, blending natural style with local craftsmanship"
+  },
+  {
+    "name": "Small Bamboo Chair",
+    "price": "809.49",
+    "category": "Computers",
+    "description": "Professional-grade Salad perfect for robust training and recreational use"
   }
 ]

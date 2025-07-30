@@ -3,7 +3,7 @@
 // Додайте до файлу package.json скрипт modify-products для виконання коду з файлу src/scripts/modifyProducts.js.
 // Виконавши скрипт modify-products, переконайтесь, що ваша функція modifyProducts коректно перезаписує вміст файлу src/db/db.json.
 
-import { PATH_DB } from "../constans/products.js";
+import { PATH_DB } from "../constants/products.js";
 import fs from 'node:fs/promises';
 
 const modifyProducts = async () => { 

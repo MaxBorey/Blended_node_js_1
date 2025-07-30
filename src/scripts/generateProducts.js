@@ -1,4 +1,4 @@
-import { PATH_DB } from "../constans/products.js";
+import { PATH_DB } from "../constants/products.js";
 import fs from 'node:fs/promises';
 import { createFakeProduct } from "../utilits/createFakeProduct.js";
 

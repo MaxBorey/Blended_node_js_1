@@ -2,7 +2,7 @@
 // Додайте до файлу package.json скрипт get-unique-categories для виконання коду з файлу src/scripts/getUniqueCategories.js.
 // Виконавши скрипт get-unique-categories, переконайтесь, що ваша функція getUniqueCategories коректно повертає унікальні категорії, які мають продукти в масиві у файлі src/db/db.json.
 
-import { PATH_DB } from "../constans/products.js";
+import { PATH_DB } from "../constants/products.js";
 import fs from 'node:fs/promises';
 
 
